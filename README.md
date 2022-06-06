@@ -2,10 +2,10 @@
 <img src="https://cdn.discordapp.com/attachments/980166798198599712/983072593458393138/patlabor2.gif">
 </p>
 <p align="center">
-<b>DAKER#1111</b>
+<img src="https://discord.c99.nl/widget/theme-4/455345935082323968.png", width="400">
 </p>
 <p align="center">
-<img src="https://discord.c99.nl/widget/theme-4/455345935082323968.png"
+[![DAKER816's Github Stats](https://github-readme-stats.vercel.app/api?username=DAKER816&show_icons=false&theme=synthwave)
 </p>
 <p align="center">
 <a href="https://www.python.org/">Learning Python</a>
